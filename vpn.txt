@@ -1,0 +1,7 @@
+#profile-title: base64:8J+GkyBHaXQ6IEBGaXJtZm94IOKbk++4j+KAjfCfkqU=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/firmfox/Proxify
+#profile-web-page-url: https://github.com/firmfox/Proxify
+trojan://telegram-id-directvpn@52.57.206.229:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
+vless://fe202867-69b8-4f91-9112-3cdfd4915b89@chatgpt.com:443?path=/eyJqdW5rIjoiSWFuNkZJZGIxM2ZlTFA3SiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.diweme4468.workers.dev&fp=chrome&type=ws&sni=v2nGfaSt-v2NgFAsT-v2NgfAst-V2NgFAst.DIwemE4468.WORkErS.DEV#1 🇩🇪 @av2ngFast
