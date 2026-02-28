@@ -4,6 +4,7 @@
 #support-url: https://raw.githubusercontent.com/AvenSnimok123/avenvpn/main/vpn.txt
 #profile-web-page-url: https://raw.githubusercontent.com/AvenSnimok123/avenvpn/main/vpn.txt
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS3Q4RTg2eDJ0VnRLYnRwc2dWcEhIRTExclUzWFd1aEM4V3pNNktBVXd3d3BETGNKRjZ2cVd2eVI4VkhnMkxEYkpRUWpWQTF3QTZUTXE4SlN4MTdaY0tWeGNBUEdudXI=@mx2.drawnrisha.one:55988#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20SS%20%7C%20%5BАнтиГлуш1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTThmTms3bWV3a1loUkZKekV1NG9zSkJYaUpjWm90UVN2YUg2Y2ZteHM3YlAxMlFBTmlqRVp2S1R4UmQ0SGJhZTM3WG43eEVYZkJjeHo0dFdobWJXUTM2UkViblpvUFE=@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20SS%20%7C%20%5BАнтиГлуш2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@media.mothyleela.cfd:40521#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20SS%20%7C%20%5BАнтиГлуш3%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
