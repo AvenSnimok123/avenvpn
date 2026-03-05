@@ -6,7 +6,7 @@
 
 vless://7a0a31cd-dcaa-4883-9645-a5b20244b94b@ru1.actualvpn.ru:443?security=reality&encryption=none&pbk=zn0LDK5aiFvyjjOWxAMDgmXDtRixWHWQnSRCRhhAywQ&headerType=none&fp=chrome&spx=%2FNf8vskFBoZryoRb&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=site.ru1.actualvpn.ru&sid=bd65afd0274b#%F0%9F%8C%8F%D0%A2%D0%B5%D0%BB%D0%B52+%28White+list%29+-+10.00GB%F0%9F%93%8A
 
-vless://7a0a31cd-dcaa-4883-9645-a5b20244b94b@de2.actvpn.ru:443?security=reality&encryption=none&pbk=HrCRTheFHAf7QlOp4e4a4lFVuHSX7yqanPc52yOwjCA&headerType=none&fp=chrome&spx=%2FQeZNdbT951EXRor&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=site.de2.actvpn.ru&sid=5340d48334f0f543#Германия
+vless://7a0a31cd-dcaa-4883-9645-a5b20244b94b@de2.actvpn.ru:443?security=reality&encryption=none&pbk=HrCRTheFHAf7QlOp4e4a4lFVuHSX7yqanPc52yOwjCA&headerType=none&fp=chrome&spx=%2FQeZNdbT951EXRor&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=site.de2.actvpn.ru&sid=5340d48334f0f543#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 
 vless://7a0a31cd-dcaa-4883-9645-a5b20244b94b@at1.actualvpn.ru:443?security=reality&encryption=none&pbk=G9gRtS6_S7QdggxwTXS1Txj15Iq8utBN0KDuqi63oAg&headerType=none&fp=chrome&spx=%2F3eK9IMz0T3KaiUB&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=site.at1.actualvpn.ru&sid=2e54#%F0%9F%87%A6%F0%9F%87%B9+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F+-+10.00GB%F0%9F%93%8A
 
