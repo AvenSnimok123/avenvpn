@@ -13,3 +13,5 @@ vless://17b977a1-94b9-8fa2-2136-d2bda0ba34ea@69.46.46.4:443?mode=stream-up&path=
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@status.savesafe.cc:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=status.savesafe.cc&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&path=%2F&host=status.savesafe.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
 
 vless://a17be1ef-d5bc-41a1-aeac-b02345823f07@ntrkglkjrtngjknetjgnv.tr.snapeurop.com:555?path=/&security=&encryption=none&host=ads.mohsen3.ir&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
+
+vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
